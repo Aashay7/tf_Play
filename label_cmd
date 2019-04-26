@@ -1,0 +1,1 @@
+python label_image.py --graph=/tmp/output_graph.pb --labels=/tmp/output_labels.txt --image=/tmp/1.jpg --input_layer=Placeholder --output_layer=final_result --input_mean=128 --input_std=128 --input_width=299 --input_height=299
